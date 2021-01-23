@@ -11,7 +11,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import fr.adneom.utils.PartitionUtil;
- 
+              
 public class PartitionTest {
 	List<Integer> inputList = null;
 	List<Integer> emptytList = null;
